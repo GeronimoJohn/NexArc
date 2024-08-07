@@ -1,5 +1,5 @@
 import { GymPartner } from '@/components/GymPartner'
 
-export default function Partners() {
+export default function Buddies() {
   return <GymPartner />
 }
